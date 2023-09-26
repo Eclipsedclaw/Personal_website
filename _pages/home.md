@@ -7,11 +7,13 @@ permalink: /
 
 ### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+Indirect dark matter search aims to detect the byproducts of dark matter particle interactions rather than the particles themselves. When dark matter particles, like hypothetical Weakly Interacting Massive Particles (WIMPs), interact with ordinary matter or annihilate with each other, they can produce standard particles such as electrons, positrons, photons, or neutrinos that can be detected.
+
+The GAPS (General Antiparticle Spectrometer) experiment is one of the indirect dark matter search experiments. It aims to detect low-energy antideuterons, which are rare in the cosmic ray spectrum and are expected to be produced in dark matter annihilations or decays. By looking for an excess of antideuterons in cosmic rays, GAPS could potentially identify signatures of dark matter.
+
+The GRAMS (Gamma-Ray Anti-Matter Survey and Spectrometer) experiment is another indirect dark matter search experiment that focuses on detecting antimatter particles such as positrons and antiprotons, which could be produced by dark matter interactions. It employs a gamma-ray telescope to observe regions of the sky where dark matter is expected to be abundant and looks for signatures of antimatter production.
+
+These experiments exemplify indirect approaches to uncovering dark matter by searching for its secondary products rather than directly detecting the elusive dark matter particles.
 
 <div class="container">
 <div class="row">
@@ -26,8 +28,7 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
+I'm an doctorate candidate at Northeastern University physics department working on indirect dark matter search experiments. I currently have 50% of my time coontribute to GAPS experiment working on thermal system, atmospheric folding simulation and next generation mission design. My other 50% of time is responsible for GRAMS TPC design and antiHelium3 sensitivity calculation.
+
+Fun fact, i worked with professor Bryan Spring on bio-physics in my first two years of phd time. Then I joined Professor Tsuguo Aramaki's lab in March 2021.
 

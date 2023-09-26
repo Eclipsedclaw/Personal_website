@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Jiancheng Zeng
+email: zeng.jia@northeastern.edu
+description: Academic webpage of Jiancheng Zeng
 baseurl: ""
 url: ""
 
@@ -12,17 +12,17 @@ url: ""
 
 # Footer info
 affiliation: >
-    Richard Feynman<br/>
-    Professor of Physics<br/>
-    California Institute of Technology
+    Jiancheng Zeng<br/>
+    Doctorate Candidate<br/>
+    Northeastern university
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Northeastern University<br/>
+  100 Forsyth St<br/>
+  Boston, MA 02115
 
 contact: >
-    <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+    <a href="mailto:zeng.jia@northeastern.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Jiancheng via email</a> <br/>
     <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar

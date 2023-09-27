@@ -5,30 +5,52 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
+### Indirect Dark Matter Search
 
 Indirect dark matter search aims to detect the byproducts of dark matter particle interactions rather than the particles themselves. When dark matter particles, like hypothetical Weakly Interacting Massive Particles (WIMPs), interact with ordinary matter or annihilate with each other, they can produce standard particles such as electrons, positrons, photons, or neutrinos that can be detected.
-
-The GAPS (General Antiparticle Spectrometer) experiment is one of the indirect dark matter search experiments. It aims to detect low-energy antideuterons, which are rare in the cosmic ray spectrum and are expected to be produced in dark matter annihilations or decays. By looking for an excess of antideuterons in cosmic rays, GAPS could potentially identify signatures of dark matter.
-
-The GRAMS (Gamma-Ray Anti-Matter Survey and Spectrometer) experiment is another indirect dark matter search experiment that focuses on detecting antimatter particles such as positrons and antiprotons, which could be produced by dark matter interactions. It employs a gamma-ray telescope to observe regions of the sky where dark matter is expected to be abundant and looks for signatures of antimatter production.
-
-These experiments exemplify indirect approaches to uncovering dark matter by searching for its secondary products rather than directly detecting the elusive dark matter particles.
 
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/Indirect_search.jpg" width="100%"/><br/>
+Indirect Dark Matter Search concept <br/>
 </center>
 </div>
 </div>
 <br/>
 
-### About me
+##### Project involved: GAPS
+GAPS (General Antiparticle Spectrometer) experiment is one of the indirect dark matter search experiments. It aims to detect low-energy antideuterons, which are rare in the cosmic ray spectrum and are expected to be produced in dark matter annihilations or decays. By looking for an excess of antideuterons in cosmic rays, GAPS could potentially identify signatures of dark matter.
 
-I'm an doctorate candidate at Northeastern University physics department working on indirect dark matter search experiments. I currently have 50% of my time coontribute to GAPS experiment working on thermal system, atmospheric folding simulation and next generation mission design. My other 50% of time is responsible for GRAMS TPC design and antiHelium3 sensitivity calculation.
+<div class="container">
+<div class="row">
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/GAPS_detector.jpg" width="100%"/><br/>
+Me with GAPS tracker construction <br/>
+</center>
+</div>
+</div>
+<br/>
 
-Fun fact, i worked with professor Bryan Spring on bio-physics in my first two years of phd time. Then I joined Professor Tsuguo Aramaki's lab in March 2021.
+##### Project involved: GRAMS
+GRAMS (Gamma-Ray and AntiMatter Survey) is a proposed balloon/satellite mission that will
+be the first to target both MeV gamma-ray observations and antimatter-based indirect dark
+matter searches with a LArTPC (Liquid Argon Time Projection Chamber) detector. We are
+currently building and testing a prototype detector, MiniGRAMS, that will be employed for
+the first balloon flight proposed in the mid-2020s.
+Aside from dark matter search, GRAMS will also be the first in flight mission that operate as Liquid Argon Time projection Chamber(LArTPC). It will target on the gamma-ray MeV gap to bring back a lof of new discoveries.
+
+<div class="container">
+<div class="row">
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/microGRAMS.png" width="100%"/><br/>
+Me with microGRAMS TPC R&D at Northeastern University <br/>
+</center>
+</div>
+</div>
+<br/>
+
+These experiments exemplify indirect approaches to uncovering dark matter by searching for its secondary products rather than directly detecting the elusive dark matter particles.
+
+
 
